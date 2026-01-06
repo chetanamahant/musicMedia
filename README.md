@@ -206,7 +206,8 @@ Exception Handling - Lobal Exception handling (Custom exception)
 
 🧪 How to Run the Project
 1.	Clone the repository
-      git clone https://github.com/chetanamahant/musicMedia
+      git clone https://github.com/chetanamahant/musicMedia  
+
 
 2.	Configure PostgreSQL in application.properties
 3.	Build & run
